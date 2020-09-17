@@ -1,1 +1,1 @@
-# assignment-1-csc-413
+# This is my Assignment 1 for CSC 413-02.
